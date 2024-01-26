@@ -1,0 +1,1 @@
+{"_tag":{"type":"ecaEventDesc"},"_entityId":"L6OiqScL","customEventDefines":{"signal_60677163":{"name":"onReturnLobby","enitityType":"Entity","props":[],"propCount":0,"key":"signal_60677163"}},"customName":{"onReturnLobby":"signal_60677163"},"customEventRelatMap":{"signal_60677163receive":"signal_60677163"},"children":[]}

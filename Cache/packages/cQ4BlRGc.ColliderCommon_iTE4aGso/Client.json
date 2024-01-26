@@ -1,0 +1,18 @@
+{
+ "Name": "cQ4BlRGc.ColliderCommon_iTE4aGso",
+ "UUID": "cQ4BlRGc.ColliderCommon_iTE4aGso",
+ "ShareType": "Private",
+ "PackageType": "Custom",
+ "UseableType": "ClientServer",
+ "Platform": "Any",
+ "Version": "1.0.0",
+ "DataFormatVersion": 1,
+ "ResourceList": [
+  {
+   "UUID": "ixs6f3et4s-lr8y4gyo-4k57hra8hzt-kR8PQu3d-collider",
+   "Type": "Collider",
+   "Path": "Assets\\Scene\\Bermuda.scene",
+   "Data": "GkAIARIPDQAAAAAVAAAAAB0AAAAAGg8NAAAAPxUAAAA/HQAAAD8iFA0AAAAAFQAAAAAdAAAAACUAAIA/KAAwAEIA"
+  }
+ ]
+}

@@ -1,0 +1,1058 @@
+{
+  "NameSpace": {
+    "Name": "cQ4BlRGc",
+    "ID": 0,
+    "UIDSeed": 1
+  },
+  "FileSpaces": [
+    {
+      "Path": "EditorGenLib.fcc",
+      "Symbol": {
+        "Components": [],
+        "Events": [
+          {
+            "ID": 100000,
+            "Name": "signal_60677163"
+          }
+        ],
+        "Graphs": [
+          {
+            "ID": "cQ4BlRGc.avg0m1jvb7l-lpuu6wfz-7zhx3gi1lb",
+            "Name": "avg0m1jvb7l_lpuu6wfz_7zhx3gi1lb",
+            "Props": [
+              {
+                "ID": "vrB16owLh",
+                "Name": "vrB16owLh"
+              },
+              {
+                "ID": "vPBQOQjw6",
+                "Name": "vPBQOQjw6"
+              },
+              {
+                "ID": "vW9pBg28j",
+                "Name": "vW9pBg28j"
+              },
+              {
+                "ID": "vkdBS7gcN",
+                "Name": "vkdBS7gcN"
+              },
+              {
+                "ID": "vSMg5i3Pr",
+                "Name": "vSMg5i3Pr"
+              },
+              {
+                "ID": "v0v9yyMnH",
+                "Name": "v0v9yyMnH"
+              },
+              {
+                "ID": "vWqsmtiof",
+                "Name": "vWqsmtiof"
+              },
+              {
+                "ID": "vksW4DhiG",
+                "Name": "vksW4DhiG"
+              },
+              {
+                "ID": "vOZdeMb1I",
+                "Name": "vOZdeMb1I"
+              },
+              {
+                "ID": "vSkjpLqlf",
+                "Name": "vSkjpLqlf"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "setGlobalPlayerConfig",
+                "Name": "N__e____lWUkyZ_yG5i_"
+              },
+              {
+                "ID": "removeMedKitForAll",
+                "Name": "_Y__24bodj__B9PESN_H"
+              },
+              {
+                "ID": "appendInBattle",
+                "Name": "_QzR_hReB_a__W__fa__"
+              },
+              {
+                "ID": "removeInBattle",
+                "Name": "Yt8eENYpUXe__Uk_zO__"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.6koen3enaqe-lra384bx-z6h6dkjnqfk",
+            "Name": "_6koen3enaqe_lra384bx_z6h6dkjnqfk",
+            "Props": [
+              {
+                "ID": "v444tYnbs",
+                "Name": "v444tYnbs"
+              },
+              {
+                "ID": "v1qCkQHJ0",
+                "Name": "v1qCkQHJ0"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "revivePlayer",
+                "Name": "djW___q_ZDEVUF9v4W__"
+              },
+              {
+                "ID": "inTrigger",
+                "Name": "_YXDex_q_q7Qf_Nb0_UQ"
+              },
+              {
+                "ID": "outTrigger",
+                "Name": "b_W_I_p_A_c1b2h__s_P"
+              },
+              {
+                "ID": "addItemWhenRevive",
+                "Name": "_ougc8___zPQ2S___W__"
+              },
+              {
+                "ID": "removeItemWhenDead",
+                "Name": "___wQ_ujgy_j__HfM___"
+              },
+              {
+                "ID": "initPlayer",
+                "Name": "L_Nw_SgoW_fW_9VysPH3"
+              },
+              {
+                "ID": "teleToBattle",
+                "Name": "DaDa_1_jcuhOR_8_I5E_"
+              },
+              {
+                "ID": "setInvulBar",
+                "Name": "_oy5ZQ_t_nk1_3fL___Y"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.vhllv4ikxa-lra3wcj2-o0prve42hpd",
+            "Name": "vhllv4ikxa_lra3wcj2_o0prve42hpd",
+            "Props": [
+              {
+                "ID": "vTmVMXvid",
+                "Name": "vTmVMXvid"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "setSpawnPoints",
+                "Name": "V_QKm_Qk_sltTHirf6v5"
+              },
+              {
+                "ID": "turnOnBorder",
+                "Name": "Xj__NX_AS_66DBXJx___"
+              },
+              {
+                "ID": "getRandomMapList",
+                "Name": "pX__O4_NgbW_pQBxFhj0"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.wwhwz671f3g-lrecqrj8-gh567z31m5c",
+            "Name": "wwhwz671f3g_lrecqrj8_gh567z31m5c",
+            "Props": [
+              {
+                "ID": "vKPucuw8D",
+                "Name": "vKPucuw8D"
+              },
+              {
+                "ID": "vBlrokK2D",
+                "Name": "vBlrokK2D"
+              },
+              {
+                "ID": "vHEr6rTRc",
+                "Name": "vHEr6rTRc"
+              },
+              {
+                "ID": "vCsYxK8Ie",
+                "Name": "vCsYxK8Ie"
+              },
+              {
+                "ID": "vSlGmffCS",
+                "Name": "vSlGmffCS"
+              },
+              {
+                "ID": "vYNckCh6V",
+                "Name": "vYNckCh6V"
+              },
+              {
+                "ID": "vzPaFT73v",
+                "Name": "vzPaFT73v"
+              },
+              {
+                "ID": "vHhSgCxAw",
+                "Name": "vHhSgCxAw"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "setARStore",
+                "Name": "A___cnJKC_pA_4oL_7_h"
+              },
+              {
+                "ID": "setSniperStore",
+                "Name": "SZX_gLtT3_S1_uzrY__k"
+              },
+              {
+                "ID": "setSMGStore",
+                "Name": "hO__HDe_B___pIPPf1_u"
+              },
+              {
+                "ID": "setHGStore",
+                "Name": "J_s5__X_y____6__BxkX"
+              },
+              {
+                "ID": "setSGStore",
+                "Name": "_5___VFWwo_qw0V_c4h__"
+              },
+              {
+                "ID": "setMeleeStore",
+                "Name": "Z___sOBE___vMD_Y6sd_"
+              },
+              {
+                "ID": "setAttachmentStore",
+                "Name": "oJ2UmKqu_fsyA_NBo__W"
+              },
+              {
+                "ID": "initStore",
+                "Name": "LzOfrLNdBo_9Nb_jm___"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.1d4o1s9lf2-lrefoxjm-7u1aafh6l5y",
+            "Name": "_1d4o1s9lf2_lrefoxjm_7u1aafh6l5y",
+            "Props": [
+              {
+                "ID": "v5OKSC30D",
+                "Name": "v5OKSC30D"
+              },
+              {
+                "ID": "vXcyOo2De",
+                "Name": "vXcyOo2De"
+              },
+              {
+                "ID": "vuyDa4osa",
+                "Name": "vuyDa4osa"
+              },
+              {
+                "ID": "vlgvuBIVy",
+                "Name": "vlgvuBIVy"
+              },
+              {
+                "ID": "vwp6QQjZc",
+                "Name": "vwp6QQjZc"
+              },
+              {
+                "ID": "vLX5Vx7NW",
+                "Name": "vLX5Vx7NW"
+              },
+              {
+                "ID": "vjSP3N1ML",
+                "Name": "vjSP3N1ML"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "getMerchandiseList",
+                "Name": "_r5zOnAJx2_nl63Ob_h_"
+              },
+              {
+                "ID": "createARStore",
+                "Name": "Z__zEEQbmY0ggpTm_oIJ"
+              },
+              {
+                "ID": "createAllStore",
+                "Name": "mT_q_Zx_SEmVvCZZ_4Uc"
+              },
+              {
+                "ID": "createSMGStore",
+                "Name": "co_St_bo___eaokFcOi_"
+              },
+              {
+                "ID": "createHGStore",
+                "Name": "zm_x__jf5b7aZqbXu_Q_"
+              },
+              {
+                "ID": "createSGStore",
+                "Name": "RGR__n__a6C__3_HJx6m"
+              },
+              {
+                "ID": "createSniperStore",
+                "Name": "NJf_Ogib_m_T_VR_M8o_"
+              },
+              {
+                "ID": "createMeleeStore",
+                "Name": "K_v1A_Jo5UpmomHS2y_H"
+              },
+              {
+                "ID": "createAttachmentStore",
+                "Name": "_Jx___NXGn_sea6T_JXY"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.1ljnu45u49a-lreg0qfh-6lvlexo4sl",
+            "Name": "_1ljnu45u49a_lreg0qfh_6lvlexo4sl",
+            "Props": [
+              {
+                "ID": "vFdmWZX2D",
+                "Name": "vFdmWZX2D"
+              },
+              {
+                "ID": "v6yu9BsGG",
+                "Name": "v6yu9BsGG"
+              },
+              {
+                "ID": "vSMVGT6TK",
+                "Name": "vSMVGT6TK"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "setARStore",
+                "Name": "GeC0bSH6__c__6_u_8br"
+              },
+              {
+                "ID": "setSMGStore",
+                "Name": "l5_VmYi_xz_I_SzZ2Hv_"
+              },
+              {
+                "ID": "setSGStore",
+                "Name": "_8TJSK_Vl__f_8_0_5y__"
+              },
+              {
+                "ID": "setHGStore",
+                "Name": "_69_Qc7__Ut_p4wA1olNi"
+              },
+              {
+                "ID": "setMeleeStore",
+                "Name": "_IEt5aq3xK__L_____C4"
+              },
+              {
+                "ID": "setSniperStore",
+                "Name": "_5LhLB_2yk__NL4Gn4RY"
+              },
+              {
+                "ID": "setAttachmentStore",
+                "Name": "_gc__hA__c76X_2_pv_b"
+              },
+              {
+                "ID": "showStore",
+                "Name": "IlrH_c_1___tx_x_98w_"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.no18xdyyvdm-lrekg4kx-1x45ilnnho5h",
+            "Name": "no18xdyyvdm_lrekg4kx_1x45ilnnho5h",
+            "Props": [
+              {
+                "ID": "vtLpThGQn",
+                "Name": "vtLpThGQn"
+              }
+            ],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.i7j99192zap-lrekxn7g-gsxrxr6ng2s",
+            "Name": "i7j99192zap_lrekxn7g_gsxrxr6ng2s",
+            "Props": [],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.bq51pay9kcl-lreo2o2m-y1wzdqo19gl",
+            "Name": "bq51pay9kcl_lreo2o2m_y1wzdqo19gl",
+            "Props": [
+              {
+                "ID": "vtLpThGQn",
+                "Name": "vtLpThGQn_"
+              }
+            ],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.se2pf2rha-lreopah9-wzxqlcdygpb",
+            "Name": "se2pf2rha_lreopah9_wzxqlcdygpb",
+            "Props": [
+              {
+                "ID": "vtLpThGQn",
+                "Name": "vtLpThGQn_"
+              }
+            ],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.8492tbfd42-lreopb19-9ho5qr3wc8",
+            "Name": "_8492tbfd42_lreopb19_9ho5qr3wc8",
+            "Props": [
+              {
+                "ID": "vtLpThGQn",
+                "Name": "vtLpThGQn_"
+              }
+            ],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.ekapk6reuos-lreopbeg-ebmhp32fq0s",
+            "Name": "ekapk6reuos_lreopbeg_ebmhp32fq0s",
+            "Props": [
+              {
+                "ID": "vtLpThGQn",
+                "Name": "vtLpThGQn_"
+              }
+            ],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.ju1onk3tbg-lreopdug-6obgfp10n5d",
+            "Name": "ju1onk3tbg_lreopdug_6obgfp10n5d",
+            "Props": [
+              {
+                "ID": "vtLpThGQn",
+                "Name": "vtLpThGQn_"
+              }
+            ],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.h3zgip9ul0u-lreptp9k-crmqh4nu1md",
+            "Name": "h3zgip9ul0u_lreptp9k_crmqh4nu1md",
+            "Props": [
+              {
+                "ID": "v9xFA391s",
+                "Name": "v9xFA391s"
+              }
+            ],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.fhb3mblhq58-lrer5m6z-njff6x37sri",
+            "Name": "fhb3mblhq58_lrer5m6z_njff6x37sri",
+            "Props": [],
+            "Funcs": [
+              {
+                "ID": "setFloatingIcon",
+                "Name": "_Q_KE________PR_b_9G"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.ft7a5n6a9cf-lret4szk-lcwfb0nudgd",
+            "Name": "ft7a5n6a9cf_lret4szk_lcwfb0nudgd",
+            "Props": [],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.jjnhyi7rlid-lrete5mi-f5s8f4w976",
+            "Name": "jjnhyi7rlid_lrete5mi_f5s8f4w976",
+            "Props": [
+              {
+                "ID": "vuqtt49tH",
+                "Name": "vuqtt49tH"
+              },
+              {
+                "ID": "vIhqppNp6",
+                "Name": "vIhqppNp6"
+              },
+              {
+                "ID": "vpG166pe4",
+                "Name": "vpG166pe4"
+              },
+              {
+                "ID": "vfhQCvcFq",
+                "Name": "vfhQCvcFq"
+              },
+              {
+                "ID": "vnkpayb51",
+                "Name": "vnkpayb51"
+              },
+              {
+                "ID": "vjSPsmMtb",
+                "Name": "vjSPsmMtb"
+              },
+              {
+                "ID": "v7o5YmYRc",
+                "Name": "v7o5YmYRc"
+              },
+              {
+                "ID": "v2pQhgUzq",
+                "Name": "v2pQhgUzq"
+              },
+              {
+                "ID": "vuukRsvUq",
+                "Name": "vuukRsvUq"
+              },
+              {
+                "ID": "vq0eIHqtL",
+                "Name": "vq0eIHqtL"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "setStatHUD",
+                "Name": "CVq5_iMP_6Fi_5c___KH"
+              },
+              {
+                "ID": "revive",
+                "Name": "o82Z_NI_IBhr7FJRFe__"
+              },
+              {
+                "ID": "returnToLobby",
+                "Name": "s_RBBbk93AzVy_k__zg_"
+              },
+              {
+                "ID": "setKillLeaderBanner",
+                "Name": "__fvsPIR_j6_R_____W_"
+              },
+              {
+                "ID": "setKillStreakHUD",
+                "Name": "Sr_Vn___2___4DzY3__8"
+              },
+              {
+                "ID": "disableKillStreakHUD",
+                "Name": "mhQ_A_BJsP_s_mS__s7W"
+              },
+              {
+                "ID": "setShowStatBtn",
+                "Name": "Oi_g_R_xoR9S_zG_FHA_"
+              },
+              {
+                "ID": "setReturnLobbyBtn",
+                "Name": "hZaXwHm_0krr_F_INcy2"
+              },
+              {
+                "ID": "setLobbyAlert",
+                "Name": "Mv_0th_6_Q6C_K5J4sX_"
+              },
+              {
+                "ID": "setBattleZoneAlert",
+                "Name": "Oz_jsr__iMBcI_TV7l_K"
+              },
+              {
+                "ID": "setProgressBar",
+                "Name": "P66W_PH0_7__tGYwq2Mv"
+              },
+              {
+                "ID": "turnOffProgressBar",
+                "Name": "W_DAh_c_x_m1h9g__ZJw"
+              },
+              {
+                "ID": "setLobbyStat",
+                "Name": "E___Mdd4Z_kb__QvHoM2"
+              },
+              {
+                "ID": "updateLobbyStat",
+                "Name": "_O9P_U__or___lc0_EGW"
+              },
+              {
+                "ID": "setTotalKillLeaderBoard",
+                "Name": "_9_sae3___iA4rwv9sat2"
+              },
+              {
+                "ID": "setTotalDamageLeaderBoard",
+                "Name": "_2_C_92e_yv9_X____2_R"
+              },
+              {
+                "ID": "initLeaderBoard",
+                "Name": "_oJ_d_K_Ay__I_z_wn_U"
+              },
+              {
+                "ID": "setTotalHSLeaderBoard",
+                "Name": "YZ_VMPV__8r5_5xgos__"
+              },
+              {
+                "ID": "setKDLeaderBoard",
+                "Name": "fyC_l_F_L2__VH_sbyWl"
+              },
+              {
+                "ID": "updateLeaderBoard",
+                "Name": "_1cVme_ggf_t2_jUdI_LV"
+              },
+              {
+                "ID": "setHR",
+                "Name": "OQH_BfJpW___n_X__fX7"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.qp9tigo27nj-lrfsqs94-396yi5e0jnq",
+            "Name": "qp9tigo27nj_lrfsqs94_396yi5e0jnq",
+            "Props": [
+              {
+                "ID": "vnOW3e2B7",
+                "Name": "vnOW3e2B7"
+              }
+            ],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.gbqdzholq74-lrfstzcw-jk9gjgwp7f",
+            "Name": "gbqdzholq74_lrfstzcw_jk9gjgwp7f",
+            "Props": [
+              {
+                "ID": "vSawwixkn",
+                "Name": "vSawwixkn"
+              }
+            ],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.aaze8w011te-lrfvcujz-vmszwv4cyi",
+            "Name": "aaze8w011te_lrfvcujz_vmszwv4cyi",
+            "Props": [
+              {
+                "ID": "v9xFA391s",
+                "Name": "v9xFA391s_"
+              },
+              {
+                "ID": "vjMap8UnC",
+                "Name": "vjMap8UnC"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "turnOnEffect",
+                "Name": "_Hw_c_I_I6_bQ2VuPB__"
+              },
+              {
+                "ID": "turnOffEffect",
+                "Name": "_7J_8s9__P__F_GOrXNPN"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.8d5z14n9g3g-lrfvm8ai-hfj8qkk67kj",
+            "Name": "_8d5z14n9g3g_lrfvm8ai_hfj8qkk67kj",
+            "Props": [
+              {
+                "ID": "v9xFA391s",
+                "Name": "v9xFA391s_"
+              },
+              {
+                "ID": "vjMap8UnC",
+                "Name": "vjMap8UnC_"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "turnOnEffect",
+                "Name": "_Hw_c_I_I6_bQ2VuPB___"
+              },
+              {
+                "ID": "turnOffEffect",
+                "Name": "_7J_8s9__P__F_GOrXNPN_"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.mnd4uawkiee-lrg321aw-hbtc9l58oeu",
+            "Name": "mnd4uawkiee_lrg321aw_hbtc9l58oeu",
+            "Props": [
+              {
+                "ID": "vhDfB5J2a",
+                "Name": "vhDfB5J2a"
+              },
+              {
+                "ID": "v4hV3CLlZ",
+                "Name": "v4hV3CLlZ"
+              },
+              {
+                "ID": "vBX3Jm5Cl",
+                "Name": "vBX3Jm5Cl"
+              },
+              {
+                "ID": "vLJmJjVtJ",
+                "Name": "vLJmJjVtJ"
+              },
+              {
+                "ID": "vZnWpxSp2",
+                "Name": "vZnWpxSp2"
+              },
+              {
+                "ID": "vuKTodSWD",
+                "Name": "vuKTodSWD"
+              },
+              {
+                "ID": "vDCb72FWw",
+                "Name": "vDCb72FWw"
+              },
+              {
+                "ID": "v24BL66rW",
+                "Name": "v24BL66rW"
+              },
+              {
+                "ID": "v8hHSl2p1",
+                "Name": "v8hHSl2p1"
+              },
+              {
+                "ID": "vTzakDNwc",
+                "Name": "vTzakDNwc"
+              },
+              {
+                "ID": "v27vT2L4V",
+                "Name": "v27vT2L4V"
+              },
+              {
+                "ID": "vPEscN0Uw",
+                "Name": "vPEscN0Uw"
+              },
+              {
+                "ID": "v6Isgu97y",
+                "Name": "v6Isgu97y"
+              },
+              {
+                "ID": "vJkduUP1P",
+                "Name": "vJkduUP1P"
+              },
+              {
+                "ID": "vbteok4b9",
+                "Name": "vbteok4b9"
+              },
+              {
+                "ID": "v6zoYihnx",
+                "Name": "v6zoYihnx"
+              },
+              {
+                "ID": "vlblQzoUD",
+                "Name": "vlblQzoUD"
+              },
+              {
+                "ID": "vSVJ0Jnez",
+                "Name": "vSVJ0Jnez"
+              },
+              {
+                "ID": "vF5nE2zbY",
+                "Name": "vF5nE2zbY"
+              },
+              {
+                "ID": "vtKmWkEdk",
+                "Name": "vtKmWkEdk"
+              },
+              {
+                "ID": "vijIcjpil",
+                "Name": "vijIcjpil"
+              },
+              {
+                "ID": "vBg5wtxBj",
+                "Name": "vBg5wtxBj"
+              },
+              {
+                "ID": "vSrLNL7ME",
+                "Name": "vSrLNL7ME"
+              },
+              {
+                "ID": "vMUve1bxv",
+                "Name": "vMUve1bxv"
+              },
+              {
+                "ID": "vIaMDvqbm",
+                "Name": "vIaMDvqbm"
+              },
+              {
+                "ID": "vu01vItAz",
+                "Name": "vu01vItAz"
+              },
+              {
+                "ID": "vijUTuslL",
+                "Name": "vijUTuslL"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "initCurrentStat",
+                "Name": "umdq_rN0___RpnCvVpvL"
+              },
+              {
+                "ID": "initTotalStat",
+                "Name": "initTotalStat"
+              },
+              {
+                "ID": "initHighestStat",
+                "Name": "G_WL5KRzX5_d1x_vTrh_"
+              },
+              {
+                "ID": "add1Kill",
+                "Name": "vC5_r2_WBG5n2_sA7ocG"
+              },
+              {
+                "ID": "addDamage",
+                "Name": "p_S_jGY__AfP__sgH__0"
+              },
+              {
+                "ID": "add1Assist",
+                "Name": "_9qcMVVpm_aZGk__X_wwR"
+              },
+              {
+                "ID": "addAssistedPlayer",
+                "Name": "o__r__ibuDwP4w_sqXjH"
+              },
+              {
+                "ID": "removeAssistedPlayer",
+                "Name": "A_mBGW_W__ToS6_h__W_"
+              },
+              {
+                "ID": "addHeadShot",
+                "Name": "_7MXd__H3yLfDZ1_H_IOC"
+              },
+              {
+                "ID": "calculateTotal",
+                "Name": "_8cb0rf70w_M3_Y__M_K"
+              },
+              {
+                "ID": "roundFloatToString",
+                "Name": "o___k_ZiFb_zPjPbk_Vg"
+              },
+              {
+                "ID": "calculateHighest",
+                "Name": "Y23Isjs_o__z_p5A____"
+              },
+              {
+                "ID": "add1Death",
+                "Name": "_S_0z221Qe23_6Yrs1Xe"
+              },
+              {
+                "ID": "resetHR",
+                "Name": "CXy__13Z__6_iv_cdi_i"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.6yiqrehw30i-lrix5na8-ew56x8o24ps",
+            "Name": "_6yiqrehw30i_lrix5na8_ew56x8o24ps",
+            "Props": [
+              {
+                "ID": "vTUvGpGeg",
+                "Name": "vTUvGpGeg"
+              },
+              {
+                "ID": "vS5oxy6QL",
+                "Name": "vS5oxy6QL"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "updateKillLeader",
+                "Name": "qxNA___sEZo___3_dN59"
+              },
+              {
+                "ID": "deleteKillLeader",
+                "Name": "dwnq_eDybRxIO_I6__Jn"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.qbxt4e5jdtq-lrj0hrza-9agziajw91l",
+            "Name": "qbxt4e5jdtq_lrj0hrza_9agziajw91l",
+            "Props": [
+              {
+                "ID": "vyuTAt0FY",
+                "Name": "vyuTAt0FY"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "setShopPromptHUD",
+                "Name": "ZshIFvZnIF__J__XM_J_"
+              },
+              {
+                "ID": "deleteShopPrompt",
+                "Name": "__ZO6sC2_X_G____HBS_"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.4vx67r8bq3u-lrk4cwi2-o8911idobkr",
+            "Name": "_4vx67r8bq3u_lrk4cwi2_o8911idobkr",
+            "Props": [
+              {
+                "ID": "vaQXZoPpN",
+                "Name": "vaQXZoPpN"
+              },
+              {
+                "ID": "vxckyO8pg",
+                "Name": "vxckyO8pg"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "createStartBanner",
+                "Name": "N_VxzlcOCP_GPw__lVYD"
+              },
+              {
+                "ID": "setMapChangeNoti",
+                "Name": "RTeqYb__Y_n__Jo_LRC_"
+              },
+              {
+                "ID": "setCountDownHUD",
+                "Name": "__5I1M_w_e_8____WD_d"
+              },
+              {
+                "ID": "deleteCountDownHUD",
+                "Name": "dB41v___V7Q_doBcF0H6"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.bhtqn7dis7-lrkgubpp-hv44mv0hnvg",
+            "Name": "bhtqn7dis7_lrkgubpp_hv44mv0hnvg",
+            "Props": [],
+            "Funcs": []
+          },
+          {
+            "ID": "cQ4BlRGc.dc3a9cb8-d8cb-4955-b748-3ec20ae9838c",
+            "Name": "dc3a9cb8_d8cb_4955_b748_3ec20ae9838c",
+            "Props": [
+              {
+                "ID": "vjeZgr0LB",
+                "Name": "vjeZgr0LB"
+              },
+              {
+                "ID": "vTMnKzzUd",
+                "Name": "vTMnKzzUd"
+              },
+              {
+                "ID": "vECttVPv4",
+                "Name": "vECttVPv4"
+              },
+              {
+                "ID": "veKEBO8pg",
+                "Name": "veKEBO8pg"
+              },
+              {
+                "ID": "vB1DQJIS5",
+                "Name": "vB1DQJIS5"
+              },
+              {
+                "ID": "vW7TUTgDG",
+                "Name": "vW7TUTgDG"
+              },
+              {
+                "ID": "vdOYOKbAb",
+                "Name": "vdOYOKbAb"
+              }
+            ],
+            "Funcs": [
+              {
+                "ID": "SortListBaseOnTotalKill",
+                "Name": "F_1kx2BVu_Y__0o73t_G"
+              },
+              {
+                "ID": "SortListBaseOnTotalDanage",
+                "Name": "IzI7s1_K_rw_xV0_O__w"
+              },
+              {
+                "ID": "SortListBaseOnTotalHeadShots",
+                "Name": "_95__W7_cB_3j__U_vc_C"
+              },
+              {
+                "ID": "SortListBaseOnKD",
+                "Name": "_7_____1_k9561O_o5k_I"
+              },
+              {
+                "ID": "setTotalKillLeaderBoard",
+                "Name": "_9_sae3___iA4rwv9sat2_"
+              },
+              {
+                "ID": "setTotalDamageLeaderBoard",
+                "Name": "ILANu_erH0tXP_2H_J0K"
+              },
+              {
+                "ID": "setTotalHSLeaderBoard",
+                "Name": "YZ_VMPV__8r5_5xgos___"
+              },
+              {
+                "ID": "setKDLeaderBoard",
+                "Name": "fyC_l_F_L2__VH_sbyWl_"
+              },
+              {
+                "ID": "initLeaderboard",
+                "Name": "jnmh_YT_jb__Id_uAulc"
+              },
+              {
+                "ID": "setMapHUD",
+                "Name": "_7_I__j_t___uQ7r_n__y"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.2u8jh115og-lrorc7ie-2q2a1ghdtr7",
+            "Name": "_2u8jh115og_lrorc7ie_2q2a1ghdtr7",
+            "Props": [],
+            "Funcs": [
+              {
+                "ID": "updateTotalKillLeaderBoard",
+                "Name": "O6_M_4__s_hxYmi__Ve_"
+              },
+              {
+                "ID": "setKillTemplate",
+                "Name": "_SfFQYpsazzC_f_vl_3t"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.nyu45tauf7m-lrprrb9j-ijnuivfrq4",
+            "Name": "nyu45tauf7m_lrprrb9j_ijnuivfrq4",
+            "Props": [],
+            "Funcs": [
+              {
+                "ID": "updateKDLeaderBoard",
+                "Name": "O6_M_4__s_hxYmi__Ve__"
+              },
+              {
+                "ID": "setKillTemplate",
+                "Name": "_SfFQYpsazzC_f_vl_3t_"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.p6q1eizg4qa-lrput5ke-x8pr8k9o29",
+            "Name": "p6q1eizg4qa_lrput5ke_x8pr8k9o29",
+            "Props": [],
+            "Funcs": [
+              {
+                "ID": "updateTotalDamageLeaderBoard",
+                "Name": "O6_M_4__s_hxYmi__Ve__"
+              },
+              {
+                "ID": "setKillTemplate",
+                "Name": "_SfFQYpsazzC_f_vl_3t_"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.sciuaweex5-lrpuus9l-mjxdpbltsmf",
+            "Name": "sciuaweex5_lrpuus9l_mjxdpbltsmf",
+            "Props": [],
+            "Funcs": [
+              {
+                "ID": "updateTotalHSLeaderBoard",
+                "Name": "O6_M_4__s_hxYmi__Ve__"
+              },
+              {
+                "ID": "setKillTemplate",
+                "Name": "_SfFQYpsazzC_f_vl_3t_"
+              }
+            ]
+          },
+          {
+            "ID": "cQ4BlRGc.f21kgnxrngu-lru2xir3-yi1gpe26i3j",
+            "Name": "f21kgnxrngu_lru2xir3_yi1gpe26i3j",
+            "Props": [],
+            "Funcs": [
+              {
+                "ID": "updateMap",
+                "Name": "_AWBNEsp_9rx9_iRdJfR"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

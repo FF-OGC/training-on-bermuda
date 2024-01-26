@@ -1,0 +1,2280 @@
+{
+ "KeyList": [
+  {
+   "Key": "GAME_NAME",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "TRAINING ON BERMUDA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "對百慕大的培訓"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "การฝึกเบอร์มิวดา"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "TẬP HUẤN TRÊN BERMUDA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Pelatihan tentang Bermuda"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Treinamento sobre Bermuda"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Entrenamiento en Bermudas"
+    }
+   ]
+  },
+  {
+   "Key": "GAME_DESCRIPTION",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "SHARPEN YOUR SKILL ON BERMUDA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "提高您在百慕大的技能"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ฝึกฝนทักษะของคุณ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "CẢI THIỆN KĨ NĂNG TRÊN BERMUDA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Pertajam keahlian Anda di Bermuda"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Afie sua habilidade nas Bermudas"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Afecta tu habilidad en Bermudas"
+    }
+   ]
+  },
+  {
+   "Key": "MATCH_PLACEMENT",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Match placement"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "比賽放置"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "จับคู่ตำแหน่ง"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Xếp hạng"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Pencocokan penempatan"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Colocação de correspondência"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Colocación de partidos"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Матч размещение"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Placement de correspondance"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Übereinstimmung der Platzierung"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Maç Yerleştirme"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "मैच प्लेसमेंट"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Plasarea meciului"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "وضع المباراة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "ম্যাচ প্লেসমেন্ট"
+    }
+   ]
+  },
+  {
+   "Key": "K/D_RATIO",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "K/D RATIO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "K/D比"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "อัตราส่วน k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "TỈ LỆ K/D"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Rasio k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Relação k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Relación k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Соотношение"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Ratio k / d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "K/D -Verhältnis"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "K/D oranı"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "K/d अनुपात"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Raport k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "نسبة K/D"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "কে/ডি অনুপাত"
+    }
+   ]
+  },
+  {
+   "Key": "KD_RATION_N",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "K/D ratio"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "K/D比"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "อัตราส่วน k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Tỉ lệ K/D"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Rasio k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Relação k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Relación k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Соотношение"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Ratio k / d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "K/D -Verhältnis"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "K/D oranı"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "K/d अनुपात"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Raport k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "نسبة K/D"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "কে/ডি অনুপাত"
+    }
+   ]
+  },
+  {
+   "Key": "K/D",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "K/D"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "k/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "K/D"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "K/D"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "K/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "K/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "K/D"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "К/д"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "K / d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "K/d"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "K/D"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "K/D"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "K/D."
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "ك/د"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "কে/ডি"
+    }
+   ]
+  },
+  {
+   "Key": "TOTAL_DAMAGE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "TOTAL DAMAGE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "總損壞"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ความเสียหายทั้งหมด"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "TỔNG SÁT THƯƠNG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Kerusakan total"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Dano total"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "DAÑO TOTAL"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Общий ущерб"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dommage total"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "TOTALSCHADEN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "TOPLAM HASAR"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "कुल क्षति"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "DAUNA TOTALA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "الضرر الكلي"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "মোট ক্ষতি"
+    }
+   ]
+  },
+  {
+   "Key": "TOTAL_DAMAGE_N",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Total damage"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "總損壞"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ความเสียหายทั้งหมด"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Tổng sát thương"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Kerusakan total"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Dano total"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Daño total"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Общий ущерб"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dommage total"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Totalschaden"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Toplam hasar"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "कुल क्षति"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Dauna totala"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "الضرر الكلي"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "মোট ক্ষতি"
+    }
+   ]
+  },
+  {
+   "Key": "DAMAGE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Damage"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "損害"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ความเสียหาย"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Sát thương"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Kerusakan"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Dano"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Daño"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Повреждать"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Dommage"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Schaden"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Zarar"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "हानि"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Deteriora"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "ضرر"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "ক্ষতি"
+    }
+   ]
+  },
+  {
+   "Key": "TOTAL_HEADSHOTS",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "TOTAL HEADSHOTS"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "總爆頭"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ภาพรวมทั้งหมด"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "TỔNG HEADSHOTS"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Total headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Total de tiro na cabeça"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Total de disparos a la cabeza"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Всего выстрелов в голову"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Total des tirs"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Totale Kopfschüsse"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Toplam Headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "कुल हेडशॉट्स"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Total lovituri de cap"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "مجموع الرأس"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "মোট হেডশট"
+    }
+   ]
+  },
+  {
+   "Key": "TOTAL_HEADSHOTS_N",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Total headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "總爆頭"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ภาพรวมทั้งหมด"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Tổng headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Total headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Total de tiro na cabeça"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Total de disparos a la cabeza"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Всего выстрелов в голову"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Total des tirs"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Totale Kopfschüsse"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Toplam Headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "कुल हेडशॉट्स"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Total lovituri de cap"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "مجموع الرأس"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "মোট হেডশট"
+    }
+   ]
+  },
+  {
+   "Key": "HEADSHOTS",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "頭像"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ภาพหัว"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Tiro na cabeça"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Disparos a la cabeza"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Выстрелы в голову"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Tirs à la tête"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Kopfschüsse"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Kafa vuruşları"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "हेडशॉट"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Capturi de cap"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "হেডশটস"
+    }
+   ]
+  },
+  {
+   "Key": "TOTAL_ELIM",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "TOTAL ELIMINATIONS"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "總消除"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "การกำจัดทั้งหมด"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "TỔNG HẠ GỤC"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Total eliminasi"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Eliminações totais"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Eliminaciones totales"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Общее количество исключений"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Éliminations totales"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Totale Eliminierungen"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Toplam elemeler"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "कुल उन्मूलन"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Eliminări totale"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "إجمالي الإقصاء"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "মোট নির্মূল"
+    }
+   ]
+  },
+  {
+   "Key": "TOTAL_ELIM_N",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Total eliminations"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "總消除"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "การกำจัดทั้งหมด"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Tổng hạ gục"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Total eliminasi"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Eliminações totais"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Eliminaciones totales"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Общее количество ликвидации"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Éliminations totales"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Totale Eliminierungen"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Toplam elemeler"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "कुल उन्मूलन"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Eliminări totale"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "إجمالي الإقصاء"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "মোট নির্মূল"
+    }
+   ]
+  },
+  {
+   "Key": "ELIM",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Eliminations"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "消除"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "การกำจัด"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Hạ gục"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Eliminasi"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Eliminações"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Eliminaciones"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Устранения"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Éliminations"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Eliminierungen"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Eleme"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "एलिमिनेशन"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Eliminări"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "الإقصاء"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "নির্মূল"
+    }
+   ]
+  },
+  {
+   "Key": "KILL_STREAK",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "{0} KILL STREAK"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "{0}殺死條紋"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "{0} Kill Streak"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "{0} CHUỖI HẠ GỤC"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "{0} bunuh streak"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "{0} Kill Streak"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "{0} matar racha"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "{0} storeck"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "{0} Kill Streak"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "{0} Tötestreifen"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "{0} Seri Öldür"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "{0} किल स्ट्रीक"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "{0} Kill Streak"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "{0} اقتل سلسلة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "{0} মেরে ফেলুন"
+    }
+   ]
+  },
+  {
+   "Key": "SHOP",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "SHOP"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "店鋪"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ร้านค้า"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "CỬA HÀNG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "TOKO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "COMPRAR"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "COMERCIO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "МАГАЗИН"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "BOUTIQUE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "GESCHÄFT"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "MAĞAZA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "दुकान"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "MAGAZIN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "محل"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "দোকান"
+    }
+   ]
+  },
+  {
+   "Key": "LAST_ROUND",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "LAST ROUND"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "最後一輪"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "รอบสุดท้าย"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "VÒNG TRƯỚC"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "RONDE TERAKHIR"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "ÚLTIMA RODADA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "ÚLTIMA RONDA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Последний раунд"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "DERNIER TOUR"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "LETZTE RUNDE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "SON TUR"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "आखिरी दौर"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "ULTIMA RUNDA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "الجولة الأخيرة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "শেষ পর্ব"
+    }
+   ]
+  },
+  {
+   "Key": "HIGH_RECORD",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "HIGH RECORD"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "高記錄"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "สถิติสูง"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "KỈ LỤC"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Rekor Tinggi"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Alto registro"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Récord"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Высокая запись"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Record élevé"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Hohe Aufzeichnung"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Yüksek kayıt"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "उच्च अभिलेख"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Record înalt"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "سجل مرتفع"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "উচ্চ রেকর্ড"
+    }
+   ]
+  },
+  {
+   "Key": "HEADSHOTS_RATE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Headshots Rate"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "雷電率"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "อัตรา headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Tỉ lệ headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Tingkat headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Taxa de tiro na cabeça"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Tasa de disparos en la cabeza"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Выстрелы в голову"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Taux de tirs à la tête"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Kopfschüsse"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "HeadShots oranı"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "हेडशॉट्स दर"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Rata de lovituri de cap"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "معدلات headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "হেডশট রেট"
+    }
+   ]
+  },
+  {
+   "Key": "SURVIVAL_TIME",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Survival Time"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "生存時間"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "เวลารอดชีวิต"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Thời gian sông sót"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Waktu bertahan hidup"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Tempo de sobrevivência"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Tiempo de supervivencia"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Время выживания"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Temps de survie"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Überlebenszeit"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Hayatta kalma süresi"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "उत्तरजीविता काल"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Timp de supraviețuire"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "وقت البقاء على قيد الحياة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "বেঁচে থাকার সময়"
+    }
+   ]
+  },
+  {
+   "Key": "TOTAL_SURVIVAL",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Total survival time"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "總生存時間"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "เวลารอดชีวิตทั้งหมด"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Tổng thời gian sống sót"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Total waktu bertahan hidup"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Tempo total de sobrevivência"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Tiempo de supervivencia total"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Общее время выживания"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Temps de survie total"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Totale Überlebenszeit"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Toplam Hayatta Kalma Süresi"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "कुल उत्तरजीविता समय"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Timp total de supraviețuire"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "وقت البقاء على قيد الحياة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "মোট বেঁচে থাকার সময়"
+    }
+   ]
+  },
+  {
+   "Key": "AVG_HS",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "AVG headshot rate"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "AVG頭像率"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "อัตราการถ่ายภาพ AVG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "AVG tỉ lệ headshots"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Tingkat headshot rata -rata"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Taxa de tiro na cabeça do AVG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Tasa de disparo en la cabeza de AVG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "AVG -выстрел в голову"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Taux de tir AVG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "AVG Headshot Rate"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "AVG Headshot Oran"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "AVG हेडशॉट दर"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Rata de cap de cap"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "معدل AVG Headshot"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "এভিজি হেডশট হার"
+    }
+   ]
+  },
+  {
+   "Key": "AVG_SUR",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "AVG survival time"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "AVG生存時間"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "เวลารอดชีวิต AVG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "AVG thời gian sống sót"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Waktu bertahan hidup rata -rata"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Tempo de sobrevivência da AVG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Tiempo de supervivencia AVG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "AVG Время выживания"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Temps de survie AVG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "AVG Überlebenszeit"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "AVG Hayatta Kalma Süresi"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "AVG उत्तरजीविता समय"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Timp de supraviețuire AVG"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "وقت البقاء على قيد الحياة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "অ্যাভিজি বেঁচে থাকার সময়"
+    }
+   ]
+  },
+  {
+   "Key": "RETURN",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "RETURN TO LOBBY"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "返回大廳"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "กลับไปที่ล็อบบี้"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "TRỞ LẠI SẢNH"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Kembali ke lobi"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Retornar ao lobby"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Regresar al lobby"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Вернуться в лобби"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Retour au hall"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Kehren Sie zur Lobby zurück"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Lobiye Dön"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "लॉबी पर लौटें"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Întoarceți -vă în hol"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "العودة إلى الضغط"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "লবিতে ফিরে আসুন"
+    }
+   ]
+  },
+  {
+   "Key": "REVIVE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "REVIVE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "復活"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "การฟื้นฟู"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "HỒI SINH"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "MEMBANGKITKAN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "REVIVER"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "REANIMAR"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Возродить"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "RELANCER"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "BELEBEN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "CANLANDIRMAK"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "पुनर्जीवित"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Reînvie"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "اعادة احياء"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "পুনরায় জীবত করা"
+    }
+   ]
+  },
+  {
+   "Key": "BATTLEZONE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "BATTLE ZONE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "戰區"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "เขตรบ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "KHU GIAO CHIẾN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Zona pertempuran"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Zona de batalha"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "ZONA DE BATALLA"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Боевая зона"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "ZONE DE COMBATS"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Kampfzone"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Savaş bölgesi"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "युद्ध -क्षेत्र"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Zona de luptă"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "منطقة المعركة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "যুদ্ধ অঞ্চল"
+    }
+   ]
+  },
+  {
+   "Key": "KILL_LEADER",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "YOU ARE THE NEW KILL LEADER"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "你是新的殺人領袖"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "คุณคือผู้นำการฆ่าคนใหม่"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "BẠN LÀ VUA HẠ GỤC MỚI"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Anda adalah pemimpin pembunuhan baru"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Você é o novo líder de matar"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Eres el nuevo líder de Kill"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Вы новый лидер убийств"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Vous êtes le nouveau chef de kill"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Du bist der neue Kill -Anführer"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Sen yeni öldürme lidisin"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "आप नए किल लीडर हैं"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Ești noul lider de ucidere"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "أنت زعيم القتل الجديد"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "আপনি নতুন কিল লিডার"
+    }
+   ]
+  },
+  {
+   "Key": "LOBBY",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "LOBBY"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "遊說"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ล็อบบี้"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "SẢNH"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "LOBI"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "SALÃO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "VESTÍBULO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "ЛОББИ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "HALL D'ENTRÉE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "EMPFANGSHALLE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Lobi"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "लॉबी"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "LOBBY"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "ردهة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "লবি"
+    }
+   ]
+  },
+  {
+   "Key": "YOUR_STAT",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "YOUR STAT"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "您的統計數據"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "สถิติของคุณ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "THÔNG SỐ CỦA BẠN"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Stat Anda"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Sua estatística"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Tu estadística"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Ваш статистика"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Votre statistique"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Dein Status"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Statınız"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "आपकी स्टेट"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Statul tău"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "الإحصائي الخاص بك"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "আপনার স্ট্যাট"
+    }
+   ]
+  },
+  {
+   "Key": "INVULNERABLE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "INVULNERABLE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "無敵"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "คงกระพัน"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "BẤT TỬ"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "KEBAL"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "INVULNERÁVEL"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "INVULNERABLE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Неуязвимый"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "INVULNÉRABLE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "UNVERWUNDBAR"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Dokunulmaz"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "अभेद्य"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "INVULNERABIL"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "distulnerable"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "অদম্য"
+    }
+   ]
+  },
+  {
+   "Key": "SHOW_STAT",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "SHOW STATS ({0}s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "顯示統計數據（{0} S）"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "แสดงสถิติ ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "HIỆN THÔNG SỐ ({0}s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Tampilkan statistik ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Mostrar estatísticas ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Mostrar estadísticas ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Показать статистику ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Afficher les statistiques ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Statistiken anzeigen ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "İstatistikleri Göster ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "आँकड़े दिखाएं ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Afișați statistici ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "إظهار الإحصائيات ({0} s)"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "পরিসংখ্যানগুলি দেখান ({0} গুলি)"
+    }
+   ]
+  },
+  {
+   "Key": "MELEE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Melee"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "近戰"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "ระยะประชิด"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Cận chiến"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Perkelahian"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Corpo a corpo"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Pelea confusa"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Рукопашным боем"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Mêlée"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Nahkampf"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Yakın dövüş"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "हाथापाई"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Melee"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "مشاجرة"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "ম্লি"
+    }
+   ]
+  },
+  {
+   "Key": "ATTACHMENT",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "Attachment"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "依戀"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "สิ่งที่แนบมา"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "Phụ kiện"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Lampiran"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Anexo"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Adjunto"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Вложение"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Pièce jointe"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Anhang"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "EK"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "लगाव"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Atașament"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "مرفق"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "সংযুক্তি"
+    }
+   ]
+  },
+  {
+   "Key": "CURRENT_BATTLEZONE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "CURRENT BATTLEZONE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "當前的戰區"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "Battlezone ปัจจุบัน"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "CHIẾN TRƯỜNG HIỆN TẠI"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Battlezone saat ini"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Zone de batalha atual"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Zonera de batalla actual"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Текущий битва"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Battlezone actuel"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Aktuelle Battlezone"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Mevcut Battlezone"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "वर्तमान बैटलज़ोन"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Actualul zona de luptă"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "BattleZone الحالي"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "বর্তমান ব্যাটলজোন"
+    }
+   ]
+  },
+  {
+   "Key": "NEXT_BATTLEZONE",
+   "LocList": [
+    {
+     "Lang": "UGCLANGUAGE_ENGLISH",
+     "Translation": "NEXT BATTLEZONE"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TRADITIONAL_CHINESE",
+     "Translation": "下一個戰區"
+    },
+    {
+     "Lang": "UGCLANGUAGE_THAI",
+     "Translation": "Battlezone ถัดไป"
+    },
+    {
+     "Lang": "UGCLANGUAGE_VIETNAMESE",
+     "Translation": "CHIẾN TRƯỜNG TIẾP THEO"
+    },
+    {
+     "Lang": "UGCLANGUAGE_INDONESIA",
+     "Translation": "Battlezone berikutnya"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BRAZILIAN_PORTUGUESE",
+     "Translation": "Próximo Zone de Batalha"
+    },
+    {
+     "Lang": "UGCLANGUAGE_SPANISH",
+     "Translation": "Siguiente zona de batalla"
+    },
+    {
+     "Lang": "UGCLANGUAGE_RUSSIAN",
+     "Translation": "Следующая битва"
+    },
+    {
+     "Lang": "UGCLANGUAGE_FRENCH",
+     "Translation": "Next Battlezone"
+    },
+    {
+     "Lang": "UGCLANGUAGE_GERMAN",
+     "Translation": "Nächste Battlezone"
+    },
+    {
+     "Lang": "UGCLANGUAGE_TURKISH",
+     "Translation": "Sonraki Battlezone"
+    },
+    {
+     "Lang": "UGCLANGUAGE_HINDI",
+     "Translation": "अगला बैटलज़ोन"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ROMANIAN",
+     "Translation": "Următoarea Battlezone"
+    },
+    {
+     "Lang": "UGCLANGUAGE_ARABIC",
+     "Translation": "القادم BattleZone"
+    },
+    {
+     "Lang": "UGCLANGUAGE_BENGALI",
+     "Translation": "নেক্সট ব্যাটলজোন"
+    }
+   ]
+  }
+ ]
+}
